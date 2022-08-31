@@ -1,7 +1,7 @@
-name: svgaplayer_flutter
+name: svgaplayer_byAlbert
 description: The SVGAPlayer implementation of Flutter using CustomPainter.
-version: 2.1.2
-homepage: https://github.com/yyued/SVGAPlayer-Flutter
+version: 1.0.1
+homepage: https://github.com/AlbertZSCreator/svgaplayer_byAlbert
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
